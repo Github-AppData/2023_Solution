@@ -1,0 +1,15 @@
+/Users/kim/Documents/2023_Solution/1th/sln_1/pro_1/bin/Debug/net7.0/pro_1
+/Users/kim/Documents/2023_Solution/1th/sln_1/pro_1/bin/Debug/net7.0/pro_1.deps.json
+/Users/kim/Documents/2023_Solution/1th/sln_1/pro_1/bin/Debug/net7.0/pro_1.runtimeconfig.json
+/Users/kim/Documents/2023_Solution/1th/sln_1/pro_1/bin/Debug/net7.0/pro_1.dll
+/Users/kim/Documents/2023_Solution/1th/sln_1/pro_1/bin/Debug/net7.0/pro_1.pdb
+/Users/kim/Documents/2023_Solution/1th/sln_1/pro_1/obj/Debug/net7.0/pro_1.csproj.AssemblyReference.cache
+/Users/kim/Documents/2023_Solution/1th/sln_1/pro_1/obj/Debug/net7.0/pro_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kim/Documents/2023_Solution/1th/sln_1/pro_1/obj/Debug/net7.0/pro_1.AssemblyInfoInputs.cache
+/Users/kim/Documents/2023_Solution/1th/sln_1/pro_1/obj/Debug/net7.0/pro_1.AssemblyInfo.cs
+/Users/kim/Documents/2023_Solution/1th/sln_1/pro_1/obj/Debug/net7.0/pro_1.csproj.CoreCompileInputs.cache
+/Users/kim/Documents/2023_Solution/1th/sln_1/pro_1/obj/Debug/net7.0/pro_1.dll
+/Users/kim/Documents/2023_Solution/1th/sln_1/pro_1/obj/Debug/net7.0/refint/pro_1.dll
+/Users/kim/Documents/2023_Solution/1th/sln_1/pro_1/obj/Debug/net7.0/pro_1.pdb
+/Users/kim/Documents/2023_Solution/1th/sln_1/pro_1/obj/Debug/net7.0/pro_1.genruntimeconfig.cache
+/Users/kim/Documents/2023_Solution/1th/sln_1/pro_1/obj/Debug/net7.0/ref/pro_1.dll
