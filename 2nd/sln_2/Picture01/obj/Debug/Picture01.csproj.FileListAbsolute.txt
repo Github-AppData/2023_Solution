@@ -1,0 +1,10 @@
+C:\Users\YUHAN\Desktop\2023_Solution\2nd\sln_2\Picture01\bin\Debug\Picture01.exe.config
+C:\Users\YUHAN\Desktop\2023_Solution\2nd\sln_2\Picture01\bin\Debug\Picture01.exe
+C:\Users\YUHAN\Desktop\2023_Solution\2nd\sln_2\Picture01\bin\Debug\Picture01.pdb
+C:\Users\YUHAN\Desktop\2023_Solution\2nd\sln_2\Picture01\obj\Debug\Picture01.csproj.AssemblyReference.cache
+C:\Users\YUHAN\Desktop\2023_Solution\2nd\sln_2\Picture01\obj\Debug\Picture01.Form1.resources
+C:\Users\YUHAN\Desktop\2023_Solution\2nd\sln_2\Picture01\obj\Debug\Picture01.Properties.Resources.resources
+C:\Users\YUHAN\Desktop\2023_Solution\2nd\sln_2\Picture01\obj\Debug\Picture01.csproj.GenerateResource.cache
+C:\Users\YUHAN\Desktop\2023_Solution\2nd\sln_2\Picture01\obj\Debug\Picture01.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Desktop\2023_Solution\2nd\sln_2\Picture01\obj\Debug\Picture01.exe
+C:\Users\YUHAN\Desktop\2023_Solution\2nd\sln_2\Picture01\obj\Debug\Picture01.pdb
