@@ -1,0 +1,11 @@
+C:\Users\YUHAN\Desktop\2023_Solution\3rd\sln_3\RBMsg\bin\Debug\RBMsg.exe.config
+C:\Users\YUHAN\Desktop\2023_Solution\3rd\sln_3\RBMsg\bin\Debug\RBMsg.exe
+C:\Users\YUHAN\Desktop\2023_Solution\3rd\sln_3\RBMsg\bin\Debug\RBMsg.pdb
+C:\Users\YUHAN\Desktop\2023_Solution\3rd\sln_3\RBMsg\obj\Debug\RBMsg.csproj.AssemblyReference.cache
+C:\Users\YUHAN\Desktop\2023_Solution\3rd\sln_3\RBMsg\obj\Debug\RBMsg.csproj.SuggestedBindingRedirects.cache
+C:\Users\YUHAN\Desktop\2023_Solution\3rd\sln_3\RBMsg\obj\Debug\RBMsg.Form1.resources
+C:\Users\YUHAN\Desktop\2023_Solution\3rd\sln_3\RBMsg\obj\Debug\RBMsg.Properties.Resources.resources
+C:\Users\YUHAN\Desktop\2023_Solution\3rd\sln_3\RBMsg\obj\Debug\RBMsg.csproj.GenerateResource.cache
+C:\Users\YUHAN\Desktop\2023_Solution\3rd\sln_3\RBMsg\obj\Debug\RBMsg.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Desktop\2023_Solution\3rd\sln_3\RBMsg\obj\Debug\RBMsg.exe
+C:\Users\YUHAN\Desktop\2023_Solution\3rd\sln_3\RBMsg\obj\Debug\RBMsg.pdb

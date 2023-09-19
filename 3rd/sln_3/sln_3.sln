@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextView", "TextView\TextView.csproj", "{16944BD5-5969-435C-95B1-622D6FD988E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RBMsg", "RBMsg\RBMsg.csproj", "{11775903-5878-4DC5-BD03-5A5EF92D1791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16944BD5-5969-435C-95B1-622D6FD988E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16944BD5-5969-435C-95B1-622D6FD988E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16944BD5-5969-435C-95B1-622D6FD988E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16944BD5-5969-435C-95B1-622D6FD988E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11775903-5878-4DC5-BD03-5A5EF92D1791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11775903-5878-4DC5-BD03-5A5EF92D1791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11775903-5878-4DC5-BD03-5A5EF92D1791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11775903-5878-4DC5-BD03-5A5EF92D1791}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {276AA513-360E-4232-B762-7504BAF6D460}
+	EndGlobalSection
+EndGlobal
