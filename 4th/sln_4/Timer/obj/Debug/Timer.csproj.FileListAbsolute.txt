@@ -1,0 +1,10 @@
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Timer\bin\Debug\Timer.exe.config
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Timer\bin\Debug\Timer.exe
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Timer\bin\Debug\Timer.pdb
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Timer\obj\Debug\Timer.csproj.AssemblyReference.cache
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Timer\obj\Debug\Timer.exe
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Timer\obj\Debug\Timer.pdb

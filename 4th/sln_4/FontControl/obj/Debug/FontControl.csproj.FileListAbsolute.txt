@@ -1,0 +1,10 @@
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\FontControl\bin\Debug\FontControl.exe.config
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\FontControl\bin\Debug\FontControl.exe
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\FontControl\bin\Debug\FontControl.pdb
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\FontControl\obj\Debug\FontControl.csproj.AssemblyReference.cache
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\FontControl\obj\Debug\FontControl.Form1.resources
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\FontControl\obj\Debug\FontControl.Properties.Resources.resources
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\FontControl\obj\Debug\FontControl.csproj.GenerateResource.cache
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\FontControl\obj\Debug\FontControl.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\FontControl\obj\Debug\FontControl.exe
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\FontControl\obj\Debug\FontControl.pdb

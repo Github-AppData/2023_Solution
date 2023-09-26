@@ -1,0 +1,10 @@
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Progress\bin\Debug\Progress.exe.config
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Progress\bin\Debug\Progress.exe
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Progress\bin\Debug\Progress.pdb
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Progress\obj\Debug\Progress.csproj.AssemblyReference.cache
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Progress\obj\Debug\Progress.Form1.resources
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Progress\obj\Debug\Progress.Properties.Resources.resources
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Progress\obj\Debug\Progress.csproj.GenerateResource.cache
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Progress\obj\Debug\Progress.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Progress\obj\Debug\Progress.exe
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Progress\obj\Debug\Progress.pdb
