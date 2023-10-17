@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TrayMsg/1.0.0": {
+        "runtime": {
+          "TrayMsg.dll": {}
+        },
+        "resources": {
+          "lg-UG/TrayMsg.resources.dll": {
+            "locale": "lg-UG"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrayMsg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
