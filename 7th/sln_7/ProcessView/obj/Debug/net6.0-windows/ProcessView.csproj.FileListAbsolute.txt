@@ -1,0 +1,17 @@
+C:\Users\YUHAN\Desktop\2023_Solution\7th\sln_7\ProcessView\bin\Debug\net6.0-windows\ProcessView.exe
+C:\Users\YUHAN\Desktop\2023_Solution\7th\sln_7\ProcessView\bin\Debug\net6.0-windows\ProcessView.deps.json
+C:\Users\YUHAN\Desktop\2023_Solution\7th\sln_7\ProcessView\bin\Debug\net6.0-windows\ProcessView.runtimeconfig.json
+C:\Users\YUHAN\Desktop\2023_Solution\7th\sln_7\ProcessView\bin\Debug\net6.0-windows\ProcessView.dll
+C:\Users\YUHAN\Desktop\2023_Solution\7th\sln_7\ProcessView\bin\Debug\net6.0-windows\ProcessView.pdb
+C:\Users\YUHAN\Desktop\2023_Solution\7th\sln_7\ProcessView\obj\Debug\net6.0-windows\ProcessView.csproj.AssemblyReference.cache
+C:\Users\YUHAN\Desktop\2023_Solution\7th\sln_7\ProcessView\obj\Debug\net6.0-windows\ProcessView.Form1.resources
+C:\Users\YUHAN\Desktop\2023_Solution\7th\sln_7\ProcessView\obj\Debug\net6.0-windows\ProcessView.csproj.GenerateResource.cache
+C:\Users\YUHAN\Desktop\2023_Solution\7th\sln_7\ProcessView\obj\Debug\net6.0-windows\ProcessView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YUHAN\Desktop\2023_Solution\7th\sln_7\ProcessView\obj\Debug\net6.0-windows\ProcessView.AssemblyInfoInputs.cache
+C:\Users\YUHAN\Desktop\2023_Solution\7th\sln_7\ProcessView\obj\Debug\net6.0-windows\ProcessView.AssemblyInfo.cs
+C:\Users\YUHAN\Desktop\2023_Solution\7th\sln_7\ProcessView\obj\Debug\net6.0-windows\ProcessView.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Desktop\2023_Solution\7th\sln_7\ProcessView\obj\Debug\net6.0-windows\ProcessView.dll
+C:\Users\YUHAN\Desktop\2023_Solution\7th\sln_7\ProcessView\obj\Debug\net6.0-windows\refint\ProcessView.dll
+C:\Users\YUHAN\Desktop\2023_Solution\7th\sln_7\ProcessView\obj\Debug\net6.0-windows\ProcessView.pdb
+C:\Users\YUHAN\Desktop\2023_Solution\7th\sln_7\ProcessView\obj\Debug\net6.0-windows\ProcessView.genruntimeconfig.cache
+C:\Users\YUHAN\Desktop\2023_Solution\7th\sln_7\ProcessView\obj\Debug\net6.0-windows\ref\ProcessView.dll

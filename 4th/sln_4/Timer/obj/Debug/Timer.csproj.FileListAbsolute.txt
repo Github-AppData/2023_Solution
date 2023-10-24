@@ -8,3 +8,4 @@ C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Timer\obj\Debug\Timer.csproj.Gene
 C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
 C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Timer\obj\Debug\Timer.exe
 C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Timer\obj\Debug\Timer.pdb
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Timer\obj\Debug\Timer.csproj.SuggestedBindingRedirects.cache

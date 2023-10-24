@@ -18,3 +18,4 @@ C:\Users\YUHAN\Desktop\2023_Solution\6th\sln_6\TrayMsg\obj\Debug\net6.0-windows\
 C:\Users\YUHAN\Desktop\2023_Solution\6th\sln_6\TrayMsg\obj\Debug\net6.0-windows\TrayMsg.pdb
 C:\Users\YUHAN\Desktop\2023_Solution\6th\sln_6\TrayMsg\obj\Debug\net6.0-windows\TrayMsg.genruntimeconfig.cache
 C:\Users\YUHAN\Desktop\2023_Solution\6th\sln_6\TrayMsg\obj\Debug\net6.0-windows\ref\TrayMsg.dll
+C:\Users\YUHAN\Desktop\2023_Solution\6th\sln_6\TrayMsg\obj\Debug\net6.0-windows\TrayMsg.csproj.AssemblyReference.cache

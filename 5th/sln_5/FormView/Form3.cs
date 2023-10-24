@@ -16,5 +16,28 @@ namespace FormView
         {
             InitializeComponent();
         }
+
+        public String SetText
+        {
+            set { this.Text = value; } // Form1에서 접근하여 [Text] 속성 변경
+        }
+
+        public void Timer_Tick(object sender, EventArgs e)
+        {
+            if (this.Size.Width > 300 && this.Size.Height > 300)
+            {
+                this.Timer.Enabled = false;
+            }
+            else
+            {
+                this.Size += new Size(10, 10); // 폼 사이즈 변경
+            }
+        }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+            this.Timer.Enabled = true; // Timer 컨트롤 활성화
+            this.Opacity = Convert.ToSingle(100 / 100);
+        }
     }
 }

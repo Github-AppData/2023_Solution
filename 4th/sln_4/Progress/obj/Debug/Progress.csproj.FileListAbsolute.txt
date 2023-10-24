@@ -8,3 +8,4 @@ C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Progress\obj\Debug\Progress.cspro
 C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Progress\obj\Debug\Progress.csproj.CoreCompileInputs.cache
 C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Progress\obj\Debug\Progress.exe
 C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Progress\obj\Debug\Progress.pdb
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\Progress\obj\Debug\Progress.csproj.SuggestedBindingRedirects.cache

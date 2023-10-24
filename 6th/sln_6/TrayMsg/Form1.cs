@@ -13,5 +13,6 @@ namespace TrayMsg
             frm2.MsgText = this.txtMsg.Text;
             frm2.ShowDialog();
         }
+
     }
 }

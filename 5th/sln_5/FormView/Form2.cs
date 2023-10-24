@@ -16,5 +16,37 @@ namespace FormView
         {
             InitializeComponent();
         }
+
+        private double o = 0.0;
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+            this.Timer.Enabled = true; // Timer 컨트롤 활성화
+        }
+
+        public String SetText
+        {
+            set { this.Text = value; } // Form1에서 접근하여 [Text] 속성 변경
+        }
+
+        private void Timer_Tick(object sender, EventArgs e)
+        {
+            if (o < 100.0)
+            {
+                o = o + 3.6;
+                float c = Convert.ToSingle(o);
+                float f = c / 100;
+                this.Opacity = f;
+            }
+            else
+            {
+                this.Opacity = Convert.ToSingle(100 / 100);
+                o = 0.0;
+                this.Timer.Enabled = false;
+            }
+        }
+
+
     }
+
 }

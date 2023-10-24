@@ -15,6 +15,8 @@ namespace TrayMsg
     {
         public Form2()
         {
+            // 폼의 위치와 사이즈를 설정하기 위한 코드. 
+            // - InitializeComponent() 보다 앞서서 이루어져야 한다.
             int x = Screen.PrimaryScreen.WorkingArea.Width - this.Width - 20;
             int y = Screen.PrimaryScreen.WorkingArea.Height - this.Height;
 
@@ -34,6 +36,8 @@ namespace TrayMsg
             }
         }
 
+        // delegate : 메소드를 대신해서 호출해 주는 역할.
+        // delegate 변수를 선언을 해주면, 변수로 메소드를 호출 할 수 있다.
         private delegate void OnDelegateHeight(int Flag); // 델리게이트 선언
         private OnDelegateHeight OnHeight = null; // 델리게이트 개체 생성
 

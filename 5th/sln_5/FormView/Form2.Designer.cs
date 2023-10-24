@@ -32,6 +32,10 @@
             Timer = new System.Windows.Forms.Timer(components);
             SuspendLayout();
             // 
+            // Timer
+            // 
+            Timer.Tick += Timer_Tick;
+            // 
             // Form2
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -46,6 +50,7 @@
             ShowInTaskbar = false;
             StartPosition = FormStartPosition.CenterParent;
             Text = "모달 폼 실행";
+            Load += Form2_Load;
             ResumeLayout(false);
         }
 

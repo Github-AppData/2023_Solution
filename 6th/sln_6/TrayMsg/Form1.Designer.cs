@@ -54,7 +54,7 @@
             FormBorderStyle = FormBorderStyle.FixedSingle;
             MaximizeBox = false;
             Name = "Form1";
-            
+           
             ResumeLayout(false);
             PerformLayout();
         }

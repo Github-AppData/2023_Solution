@@ -8,24 +8,26 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/kim/.nuget/packages/": {}
+    "C:\\Users\\YUHAN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kim/Documents/2023_Solution/1th/sln_1/pro_1/pro_1.csproj",
+      "projectUniqueName": "C:\\Users\\YUHAN\\Desktop\\2023_Solution\\1th\\sln_1\\pro_1\\pro_1.csproj",
       "projectName": "pro_1",
-      "projectPath": "/Users/kim/Documents/2023_Solution/1th/sln_1/pro_1/pro_1.csproj",
-      "packagesPath": "/Users/kim/.nuget/packages/",
-      "outputPath": "/Users/kim/Documents/2023_Solution/1th/sln_1/pro_1/obj/",
+      "projectPath": "C:\\Users\\YUHAN\\Desktop\\2023_Solution\\1th\\sln_1\\pro_1\\pro_1.csproj",
+      "packagesPath": "C:\\Users\\YUHAN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\YUHAN\\Desktop\\2023_Solution\\1th\\sln_1\\pro_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/kim/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\YUHAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

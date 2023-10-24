@@ -8,3 +8,4 @@ C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\FontControl\obj\Debug\FontControl
 C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\FontControl\obj\Debug\FontControl.csproj.CoreCompileInputs.cache
 C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\FontControl\obj\Debug\FontControl.exe
 C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\FontControl\obj\Debug\FontControl.pdb
+C:\Users\YUHAN\Desktop\2023_Solution\4th\sln_4\FontControl\obj\Debug\FontControl.csproj.SuggestedBindingRedirects.cache

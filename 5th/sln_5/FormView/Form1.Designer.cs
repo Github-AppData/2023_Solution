@@ -40,6 +40,7 @@
             btnModal.TabIndex = 0;
             btnModal.Text = "모달";
             btnModal.UseVisualStyleBackColor = true;
+            btnModal.Click += btnModal_Click;
             // 
             // btnModaless
             // 
@@ -49,6 +50,7 @@
             btnModaless.TabIndex = 1;
             btnModaless.Text = "모달리스";
             btnModaless.UseVisualStyleBackColor = true;
+            btnModaless.Click += btnModaless_Click;
             // 
             // Form1
             // 
