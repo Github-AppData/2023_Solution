@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YUHAN\\Desktop\\2023_Solution\\7th\\sln_7\\ProcessView\\ProcessView.csproj": {}
+    "C:\\Users\\YUHAN\\Documents\\2023_Solution\\7th\\sln_7\\ProcessView\\ProcessView.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YUHAN\\Desktop\\2023_Solution\\7th\\sln_7\\ProcessView\\ProcessView.csproj": {
+    "C:\\Users\\YUHAN\\Documents\\2023_Solution\\7th\\sln_7\\ProcessView\\ProcessView.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YUHAN\\Desktop\\2023_Solution\\7th\\sln_7\\ProcessView\\ProcessView.csproj",
+        "projectUniqueName": "C:\\Users\\YUHAN\\Documents\\2023_Solution\\7th\\sln_7\\ProcessView\\ProcessView.csproj",
         "projectName": "ProcessView",
-        "projectPath": "C:\\Users\\YUHAN\\Desktop\\2023_Solution\\7th\\sln_7\\ProcessView\\ProcessView.csproj",
+        "projectPath": "C:\\Users\\YUHAN\\Documents\\2023_Solution\\7th\\sln_7\\ProcessView\\ProcessView.csproj",
         "packagesPath": "C:\\Users\\YUHAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YUHAN\\Desktop\\2023_Solution\\7th\\sln_7\\ProcessView\\obj\\",
+        "outputPath": "C:\\Users\\YUHAN\\Documents\\2023_Solution\\7th\\sln_7\\ProcessView\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\YUHAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

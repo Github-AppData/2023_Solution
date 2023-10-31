@@ -29,12 +29,12 @@
         private void InitializeComponent()
         {
             lvView = new ListView();
-            btnKill = new Button();
-            ssBar = new StatusStrip();
             chName = new ColumnHeader();
             chPid = new ColumnHeader();
             chTime = new ColumnHeader();
             chMemory = new ColumnHeader();
+            btnKill = new Button();
+            ssBar = new StatusStrip();
             tsslProcess = new ToolStripStatusLabel();
             tsslCpu = new ToolStripStatusLabel();
             tsslMem = new ToolStripStatusLabel();
@@ -52,25 +52,6 @@
             lvView.TabIndex = 0;
             lvView.UseCompatibleStateImageBehavior = false;
             lvView.View = View.Details;
-            // 
-            // btnKill
-            // 
-            btnKill.Location = new Point(646, 402);
-            btnKill.Name = "btnKill";
-            btnKill.Size = new Size(154, 23);
-            btnKill.TabIndex = 1;
-            btnKill.Text = "프로세스 끝내기";
-            btnKill.UseMnemonic = false;
-            btnKill.UseVisualStyleBackColor = true;
-            // 
-            // ssBar
-            // 
-            ssBar.Items.AddRange(new ToolStripItem[] { tsslProcess, tsslCpu, tsslMem });
-            ssBar.Location = new Point(0, 428);
-            ssBar.Name = "ssBar";
-            ssBar.Size = new Size(800, 22);
-            ssBar.TabIndex = 2;
-            ssBar.Text = "statusStrip1";
             // 
             // chName
             // 
@@ -93,6 +74,26 @@
             chMemory.Text = "메모리 사용";
             chMemory.TextAlign = HorizontalAlignment.Right;
             chMemory.Width = 100;
+            // 
+            // btnKill
+            // 
+            btnKill.Location = new Point(646, 402);
+            btnKill.Name = "btnKill";
+            btnKill.Size = new Size(154, 23);
+            btnKill.TabIndex = 1;
+            btnKill.Text = "프로세스 끝내기";
+            btnKill.UseMnemonic = false;
+            btnKill.UseVisualStyleBackColor = true;
+            btnKill.Click += btnKill_Click;
+            // 
+            // ssBar
+            // 
+            ssBar.Items.AddRange(new ToolStripItem[] { tsslProcess, tsslCpu, tsslMem });
+            ssBar.Location = new Point(0, 428);
+            ssBar.Name = "ssBar";
+            ssBar.Size = new Size(800, 22);
+            ssBar.TabIndex = 2;
+            ssBar.Text = "statusStrip1";
             // 
             // tsslProcess
             // 
@@ -125,6 +126,8 @@
             MinimizeBox = false;
             Name = "Form1";
             Text = "프로세스 보기";
+            FormClosing += Form1_FormClosing;
+            Load += Form1_Load;
             ssBar.ResumeLayout(false);
             ssBar.PerformLayout();
             ResumeLayout(false);
