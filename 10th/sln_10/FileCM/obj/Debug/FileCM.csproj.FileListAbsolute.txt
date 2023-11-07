@@ -1,0 +1,12 @@
+C:\Users\YUHAN\Desktop\2023_Solution\10th\sln_10\FileCM\obj\Debug\FileCM.csproj.AssemblyReference.cache
+C:\Users\YUHAN\Desktop\2023_Solution\10th\sln_10\FileCM\obj\Debug\FileCM.csproj.SuggestedBindingRedirects.cache
+C:\Users\YUHAN\Desktop\2023_Solution\10th\sln_10\FileCM\obj\Debug\FileCM.Form1.resources
+C:\Users\YUHAN\Desktop\2023_Solution\10th\sln_10\FileCM\obj\Debug\FileCM.Form2.resources
+C:\Users\YUHAN\Desktop\2023_Solution\10th\sln_10\FileCM\obj\Debug\FileCM.Properties.Resources.resources
+C:\Users\YUHAN\Desktop\2023_Solution\10th\sln_10\FileCM\obj\Debug\FileCM.csproj.GenerateResource.cache
+C:\Users\YUHAN\Desktop\2023_Solution\10th\sln_10\FileCM\obj\Debug\FileCM.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Desktop\2023_Solution\10th\sln_10\FileCM\bin\Debug\FileCM.exe.config
+C:\Users\YUHAN\Desktop\2023_Solution\10th\sln_10\FileCM\bin\Debug\FileCM.exe
+C:\Users\YUHAN\Desktop\2023_Solution\10th\sln_10\FileCM\bin\Debug\FileCM.pdb
+C:\Users\YUHAN\Desktop\2023_Solution\10th\sln_10\FileCM\obj\Debug\FileCM.exe
+C:\Users\YUHAN\Desktop\2023_Solution\10th\sln_10\FileCM\obj\Debug\FileCM.pdb
