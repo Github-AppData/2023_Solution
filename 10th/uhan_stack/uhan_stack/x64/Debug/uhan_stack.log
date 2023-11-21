@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\YUHAN\Desktop\2023_Solution\10th\uhan_stack\uhan_stack\main.c(5,20): error C2079: 'myStack'은(는) 정의되지 않은 struct 'y_stack'을(를) 사용합니다.
+C:\Users\YUHAN\Desktop\2023_Solution\10th\uhan_stack\uhan_stack\main.c(6,13): error C2224: '.top_node' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\YUHAN\Desktop\2023_Solution\10th\uhan_stack\uhan_stack\main.c(7,5): warning C4013: 'Initialize_y_stack'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\YUHAN\Desktop\2023_Solution\10th\uhan_stack\uhan_stack\main.c(9,5): warning C4013: 'Push'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\YUHAN\Desktop\2023_Solution\10th\uhan_stack\uhan_stack\main.c(15,5): warning C4013: 'Pop'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
